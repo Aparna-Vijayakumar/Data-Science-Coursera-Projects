@@ -1,0 +1,15 @@
+Exploratory Data Analysis/EDAfinalproject/Source_Classification_Code*
+Exploratory Data Analysis/EDAfinalproject/summarySCC_PM25*
+Getting and Cleaning Data/httr-oauth
+Reproducible Research/repdata_data_activity
+**/*.csv*
+**/*.Rhistory
+**/*.pdf
+**/*.Rmd
+**/*.rmd
+**/*.html
+Reproducible Research/rsconnect/
+Statistical Inference/rsconnect/
+**/*.bz*
+R programming/Week 1/specdata/
+
